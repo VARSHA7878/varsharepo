@@ -1,8 +1,3 @@
 am happy git remote  111111111111111111111111111111
 am happy git remote  
-<<<<<<< HEAD
-local also
-22222222222222222
-=======
 local alsohgggggggggggggggggggggggggg
->>>>>>> a70fc8b8d2036f9b1678db0c0566b211a78e73b9
