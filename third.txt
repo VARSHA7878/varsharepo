@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git open
+=======
+3rd
+>>>>>>> 404d16ebf29fdec4da798a9e2d480cb2b7f9edf4
